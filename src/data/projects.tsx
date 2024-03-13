@@ -20,7 +20,7 @@ export const projects: Project[] = [
     {
       id: 3,
       name: "Burguer Kenzie",
-      languages: ["HTML", "SCSS", "Javascript", "figma"], 
+      languages: ["HTML", "SCSS", "Javascript", "React", "figma"], 
       description: "O objetivo deste projeto é implementar um conjunto de funcionalidades e estilização de um projeto já existente, colocando em prática meus conhecimentos. Acessando a lista de produto de uma API e simulando um carrinho de compras com React.",
       link_project: "https://react-entrega-s3-template-hamburgueria-cleuto-m.vercel.app/",
       github: "https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s3-template-hamburgueria-CleutoM"
