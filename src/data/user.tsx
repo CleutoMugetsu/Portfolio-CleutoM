@@ -1,0 +1,1 @@
+export const user = "Cleuto Marcio de Souza e Silva Júnior";
