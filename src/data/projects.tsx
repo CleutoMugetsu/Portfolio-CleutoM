@@ -21,7 +21,7 @@ export const projects: Project[] = [
       id: 3,
       name: "Burguer Kenzie",
       languages: ["HTML", "SCSS", "Javascript", "figma"], 
-      description: "O objetivo desta é implementar um conjunto de funcionalidades e estilização a projeto existente, colocando em prática os conhecimentos aprendidos até aqui. Iremos acessar a lista de produto desta API e simularemos um carrinho de compras com React. Além disso, para praticar a estilização, a aplicação deverá ser semelhante a este Figma.",
+      description: "O objetivo deste projeto é implementar um conjunto de funcionalidades e estilização de um projeto já existente, colocando em prática meus conhecimentos. Acessando a lista de produto de uma API e simulando um carrinho de compras com React.",
       link_project: "https://react-entrega-s3-template-hamburgueria-cleuto-m.vercel.app/",
       github: "https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s3-template-hamburgueria-CleutoM"
     },
@@ -29,7 +29,7 @@ export const projects: Project[] = [
       id: 4,
       name: "Kenzie Hub",
       languages: ["HTML", "CSS", "Javascript", "React", "figma"], 
-      description: "Um projeto destinado a gerenciar as tecnologias aprendidas pelos alunos, empregando um estilo de referência no Figma e uma API executada localmente.",
+      description: "Um projeto destinado a gerenciar as tecnologias aprendidas, empregando um estilo de referência no Figma e uma API executada localmente.",
       link_project: "https://react-entrega-kenzie-hub-cleuto-m.vercel.app/",
       github: "https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-kenzie-hub-cleutoM"
     },
